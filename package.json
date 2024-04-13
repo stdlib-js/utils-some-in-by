@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-some-in-by",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Test whether an object contains at least n properties (own and inherited) which pass a test implemented by a predicate function.",
   "license": "Apache-2.0",
   "author": {
