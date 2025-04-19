@@ -236,7 +236,7 @@ bool = someInBy( obj, 5, threshold );
 ## See Also
 
 -   <span class="package-name">[`@stdlib/utils-any-in-by`][@stdlib/utils/any-in-by]</span><span class="delimiter">: </span><span class="description">test whether at least one property in an object passes a test implemented by a predicate function.</span>
--   <span class="package-name">[`@stdlib/utils-every-in-by`][@stdlib/utils/every-in-by]</span><span class="delimiter">: </span><span class="description">test whether all properties (own and inherited) of an object pass a test implemented by a predicate function.</span>
+-   <span class="package-name">[`@stdlib/object-every-in-by`][@stdlib/object/every-in-by]</span><span class="delimiter">: </span><span class="description">test whether all properties (own and inherited) of an object pass a test implemented by a predicate function.</span>
 -   <span class="package-name">[`@stdlib/utils-some-by`][@stdlib/utils/some-by]</span><span class="delimiter">: </span><span class="description">test whether a collection contains at least `n` elements which pass a test implemented by a predicate function.</span>
 -   <span class="package-name">[`@stdlib/utils-some-own-by`][@stdlib/utils/some-own-by]</span><span class="delimiter">: </span><span class="description">test whether some `own` properties of a provided object satisfy a predicate function for at least `n` properties.</span>
 
@@ -270,7 +270,7 @@ See [LICENSE][stdlib-license].
 
 ## Copyright
 
-Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 </section>
 
@@ -315,25 +315,12 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/utils-some-in-by/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/utils-some-in-by/main/LICENSE
-<!-- <related-links> -->
-
-[@stdlib/utils/any-by]: https://github.com/stdlib-js/utils-any-by
-
-[@stdlib/utils/every-by]: https://github.com/stdlib-js/utils-every-by
-
-[@stdlib/utils/none-by]: https://github.com/stdlib-js/utils-none-by
-
-[@stdlib/utils/async/some-by]: https://github.com/stdlib-js/utils-async-some-by
-
-[@stdlib/utils/some-by-right]: https://github.com/stdlib-js/utils-some-by-right
-
-<!-- </related-links> -->
 
 <!-- <related-links> -->
 
 [@stdlib/utils/any-in-by]: https://github.com/stdlib-js/utils-any-in-by
 
-[@stdlib/utils/every-in-by]: https://github.com/stdlib-js/utils-every-in-by
+[@stdlib/object/every-in-by]: https://github.com/stdlib-js/object-every-in-by
 
 [@stdlib/utils/some-by]: https://github.com/stdlib-js/utils-some-by
 
