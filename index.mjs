@@ -1,4 +1,0 @@
-// Copyright (c) 2025 The Stdlib Authors. License is Apache-2.0: http://www.apache.org/licenses/LICENSE-2.0
-/// <reference types="./index.d.ts" />
-import t from"https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-object@v0.2.2-esm/index.mjs";import{isPrimitive as r}from"https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-positive-integer@v0.2.2-esm/index.mjs";import e from"https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-function@v0.2.2-esm/index.mjs";import s from"https://cdn.jsdelivr.net/gh/stdlib-js/error-tools-fmtprodmsg@v0.2.2-esm/index.mjs";function o(o,i,n,l){var p,d;if(!t(o))throw new TypeError(s("null3L",o));if(!r(i))throw new TypeError(s("null45",i));if(!e(n))throw new TypeError(s("null3N",n));for(d in p=0,o)if((Object.prototype.hasOwnProperty.call(o,d)||Object.prototype.hasOwnProperty.call(Object.getPrototypeOf(o),d))&&n.call(l,o[d],d,o)&&(p+=1)===i)return!0;return!1}export{o as default};
-//# sourceMappingURL=index.mjs.map
